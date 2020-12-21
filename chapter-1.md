@@ -1,4 +1,4 @@
-# Reliable, Scalable, and Maintainable Applications
+# Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 Reliability: The system should continue to work correctly even in the face of adversity
 Scalability: As the system grows, there should be reasonable ways of dealing with that growth
